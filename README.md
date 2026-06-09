@@ -14,6 +14,12 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+The chosen domain is **Student reviews of CS 6515: Graduate Algorithms (GA) in the OMSCS program at Georgia Intitute of Technology**.
+
+OMSCS is a leading online M.S. in Computer Science program with a large and diverse student and alumni community. CS 6515: Graduate Algorithms (GA) is a foundational graduate-level algorithms course and a core requirement for multiple OMSCS specializations. It is also one of the most challenging courses in the program, requiring students to develop strong algorithmic problem-solving skills and perform well on rigorous assessments. As a result, many students carefully research the course before enrolling to understand its difficulty, workload, study strategies, and common pitfalls.
+
+This information is difficult to obtain through official channels because Georgia Tech does not maintain a centralized platform of student course reviews. Instead, relevant information is scattered across community-driven sources such as OMSHub (omshub.org), OMS Reviews (omscentral.com), and discussions on the r/OMSCS subreddit, making it challenging to discover, aggregate, and analyze systematically.
+
 ---
 
 ## Document Sources
@@ -24,16 +30,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | OMS Reviews | Student reviews on OMS Reviews | https://www.omscentral.com/courses/introduction-to-graduate-algorithms/reviews |
+| 2 | OMSHub | Student reviews on OMSHub | https://www.omshub.org/course/CS-6515 |
+| 3 | Subreddit r/OMSCS | Passed CS6515 GA with A 97% Score, My Experience and Tips | https://www.reddit.com/r/OMSCS/comments/1pj9xen/passed_cs6515_ga_with_a_97_score_my_experience/ |
+| 4 | Subreddit r/OMSCS | How to Pass Graduate Algorithms CS6515 | https://www.reddit.com/r/OMSCS/comments/1q0s8gw/how_to_pass_graduate_algorithms_cs6515/ |
+| 5 | Subreddit r/OMSCS | CS6515 (Graduate Algorithms) - its true what they say... | https://www.reddit.com/r/OMSCS/comments/vleq4h/cs6515_graduate_algorithms_its_true_what_they_say/ |
+| 6 | Subreddit r/OMSCS | Preparing for CS6515 Introduction to Graduate Algorithms in advance | https://www.reddit.com/r/OMSCS/comments/1k9jta5/preparing_for_cs6515_introduction_to_graduate/ |
+| 7 | Subreddit r/OMSCS | Some notes for future GA students | https://www.reddit.com/r/OMSCS/comments/1hg51fx/some_notes_for_future_ga_students/ |
+| 8 | Subreddit r/OMSCS | Study technique for CS6515 GA - My personal experience | https://www.reddit.com/r/OMSCS/comments/1idfnfi/study_technique_for_cs6515_ga_my_personal/ |
+| 9 | Subreddit r/OMSCS | Graduate Algorithms (GA) Summer 2023 Final Review | https://www.reddit.com/r/OMSCS/comments/15ev3vm/graduate_algorithms_ga_summer_2023_final_review/ |
+| 10 | Subreddit r/OMSCS | OSI False Accusation Survivor with Advice | https://www.reddit.com/r/OMSCS/comments/1h21nsz/osi_false_accusation_survivor_with_advice/ |
 
 ---
 
