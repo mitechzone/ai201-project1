@@ -1,0 +1,33 @@
+GA is a polarizing course. Some say the course is easy, that they can get an A without a background in CS or math. Others were struggling despite having passed 9 courses before GA. Having taken the course myself in Fall 2024, I see no contradiction between the two. The content in GA is no harder than the average OMSCS course, but scoring can be hard. The key is your ability to synthesize course content into exam answers that can score points. I believe some students do better than the others in this regard. I also believe that anyone can develop this ability by having the correct study and exam techniques.
+
+My approach to studying
+
+During the semester, I have developed a specific study routine that worked well with me.
+
+It has been mentioned many times in Reddit and other online reviews that the exam questions were similar to the homework. Therefore, the homework would be a logical starting point for exam preparation. When I took the course, one of the Head TAs would hold weekly office hours and present the homework solutions. The solutions were concise and covered exactly what the grading TAs were looking for in our work. For each of the solutions, I would break them down into ~10 bullet points, and use them as templates for exam prep.
+
+When studying for the exam, I would solve the practice problems using the exact same format & structure as my templates. This way, I can fit lecture concepts into solutions that match the grading rubric. Before the exam, I would redo the problems until I was confident that I could solve them using the templates. I suggest typing out the solutions during practice, similar to a real exam.
+
+During the exam, my thought process boiled down to 1) which template to use, and 2) how to modify the template to fit the question requirements. I did not need to worry about whether my answer was too detailed or too brief, or whether I missed details that would result in penalties.
+
+This approach worked well for me. There were times when I struggled to apply the correct template. However, once I got the right template, I basically had the perfect solution.
+
+Usefulness of study resources
+
+Study resources help us develop an understanding of the concepts. They are the means to learning, not the ends. Everyone can have their own preferences on which resources to use. With that said, here is how I would rate the learning resources personally.
+
+Lectures - 3/5. I would watch the lectures, type notes on my computer and take screenshots for reference later. I made my notes as detailed as possible so I did not need to rewatch the lectures. As I watched the lectures, I would highlight concepts that were not clear to me, so I could look up additional resources.
+
+Unlike many other courses, watching the lectures in GA alone would not lead to a good score in the exams. The lectures were not useful unless we could convert them into something that scored points in the exam.
+
+Book - 4/5. The book contained practice questions which were essential for exam prep.
+
+Ed Discussion - 5/5. The Head TAs posted supplementary information on Ed, and they were must-read. Some of the posts from classmates were excellent too.
+
+Weekly office hours - 5/5. The homework solutions were discussed during weekly office hours.
+
+Exam prep office hours - 4/5. These office hours had useful information, but I would not suggest relying on them for exam prep. The office hours were held on the weekend just before the exams. We should have mastered most of the materials by then. When I attended the office hours before exam 1, half of the office hours was the Head TA answering very basic questions from students. If you are understanding the concepts for the first time during those office hours, you are probably quite behind.
+
+At the start of the semester, the instructors said they viewed GA as a math course. To do well in a math course, we need to spend a lot of time doing practice problems. Passively watching lectures/YouTube, reading the textbook, or making notes will not yield good results. Instead, the focus should be on understanding the grading rubric and doing practice problems a lot.
+
+I got the idea of writing this post because I came across classmates who struggled despite repeating the course. Hopefully my experience can be of help.

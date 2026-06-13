@@ -1,0 +1,42 @@
+Because YMMV, here's my background for your benchmark:
+
+-   Got a B in GA. It's my 3rd course in OMSCS (thanks Friday for all)
+-   Non-STEM undergrad, no CS background, not working as SWE
+-   Took discrete math
+-   Work full-time
+-   Didn't attend any OH
+-   Didn't join any study group
+-   Didn't join the Slack channel
+-   Didn't do LC
+-   Didn't have any OSI violation
+    
+Each week students are expected to do 4 things: watch lectures, take a quiz, read Ed posts, and submit a graded homework problem. The key is to do all 4 things  **TWICE**  each week.
+
+**Quizzes**: 2 types of quizzes, format and content. IIRC, each quiz allows 2 attempts.
+-   Format quizzes tell you how to structure your solutions. Make sure to follow this format in your homework and in your exams
+-   Content quizzes test your knowledge on the materials.
+    
+**Homework**: ungraded and graded. There can be a few ungraded problems but usually just one graded problem. The graded problem can be either a programming or written problem.
+
+**Edstem**: there are generally 2 types of Ed posts
+-   Supplementary materials: further explanations on the topic of the week and expected formatting. You must read these carefully because this is the rubrics.
+-   Logistical materials: related to course policies and etc.
+    
+
+**Tips**:
+
+1.  Complete each week's lectures as soon as possible; no need to understand at first watch
+2.  Do the 1st attempt as soon as you finish 1st watch of the lectures
+3.  Attempt all homework problems (both ungraded and graded) as soon as you finish your 1st quiz attempt. Make sure to timebox each problem, especially the ungraded ones. If you can't solve it, move on to the next and go back later
+4.  Read supplementary materials posts on Ed
+5.  Watch the lectures again
+6.  Do your 2nd quiz attempt
+7.  Read supplementary materials posts on Ed again
+8.  Focus on the graded homework problem. Make sure it conforms to the format quiz
+    
+**Other tips**
+
+-   Attend OH, especially if Joves is hosting an exam review OH (personally, I didn't attend any of these. I watched the recording only at x2 speed)
+-   Ignore all the drama
+-   Read the textbook. It's nice supplementary materials
+-   Do the Language of Proofs seminar if possible. If not, self-study some discrete math.

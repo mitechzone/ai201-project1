@@ -1,0 +1,53 @@
+I took CS 6515 in Spring 2025. Since many people are taking it now in Spring 2026, often as their last class, I wanted to share my experience and what worked for me.
+
+I want to say up front that there are definitely people who are just really good at this kind of material. They come in with strong math or algorithms backgrounds, things click quickly, and they do not need much help or advice. If that is you, this post probably is not for you.
+
+If you are more like me and you are worried about this class, unsure how it will go, and mostly focused on passing, then this advice is for you.
+
+Some background for context. I was a career transitioner going into OMSCS and joined the program specifically to change fields. Through OMSCS connections I landed an internship that turned into a full time job, and I now work as an AI engineer in the automotive industry. If you are curious, my Reddit post history has my full career change story and I have written about it openly over the years.
+
+I do not consider myself especially strong at coding. I do not have a LeetCode or competitive programming background. My math background is decent, but I am not someone who naturally sees algorithms. I was also working full time and only took CS 6515 that semester, which was already plenty.
+
+When I took the class, homework did not count toward the grade and everything was exam based. That actually helped a lot. It made collaboration easier and removed stress around sharing ideas. Study groups felt much more open as a result. At the time there was also a final exam bonus option of up to five percent, which has since been removed. I did not need it personally, but losing that buffer definitely raises the pressure now.
+
+Study groups were the most important part of getting through this class. I am genuinely impressed by anyone who can do well in CS 6515 without a study group.
+
+I met with two study groups, one on Asia time and one on US time. Each group met once or twice a week for about two hours.
+
+One clarification about group size. Size does matter, but probably not in the way you think. Too few people is risky, but having a larger group is not a problem. If you are organizing a group and eight or nine people want to join, that is completely fine. In reality, not everyone will show up consistently, and some people will attend but mostly listen.
+
+What mattered most for me was having at least four people total, with at least three who were consistently active. Having a larger pool, even up to around ten people, actually worked well because it made the group more resilient when people missed meetings or dropped off over time. Once that core group stabilized, the sessions became very effective.
+
+I have had mixed group work experiences in OMSCS overall, but this was the only class where I truly felt bonded with people, almost like war buddies. Several people in my groups had failed CS 6515 before and were retaking it, and their perspective was genuinely helpful.
+
+Most of the time I did not feel like I fully understood the material. My contribution was not being the smartest person in the room, but making collaboration easier.
+
+I initiated one of the study groups and handled scheduling. I used Zoom Pro and made sure I knew the whiteboard tool very well ahead of time. I treated the whiteboard like a shared workspace and organized everything so people could review it later. I used tables heavily, which is extremely helpful for dynamic programming. Zoom’s whiteboard is now basically draw io, which made diagrams much cleaner.
+
+I also used an iPad with an Apple Pencil, which made it much faster to sketch DP tables, graphs, and recurrences during discussions. Before meetings I would preload the whiteboard with screenshots of problems so we could jump straight into discussion. Even when I did not fully get the material, this structure helped the group move faster.
+
+My learning loop for each topic was pretty consistent. I read the textbook very slowly because it is hard and that is normal. I watched the lectures, which were not always enough on their own. I still felt lost. Then I went to study group, and usually someone understood it. Things started to click, and I reinforced everything through TA office hours.
+
+For me, Joves’s office hours were critical. I personally learned far more from those than from professor office hours. I worked through his practice problems repeatedly, and that made a huge difference.
+
+I averaged about seventeen hours per week and earned a solid B.
+
+My honest take is that around ten hours per week would probably not have been enough for me to pass. Around seventeen hours made a B achievable. Around twenty three or more hours might have made an A possible, but it would have been very difficult. I do not think I am particularly gifted at this material. The amount of time I put in correlated very directly with how well I did.
+
+Taking PTO is something I strongly recommend. There are three exams, and realistically the most useful study material, especially TA walkthroughs, only becomes available about a week before each exam. Before that it can be hard to even know how to study effectively.
+
+I took a three day weekend for each exam and a four day weekend for one of them. If I had not taken PTO, I think passing would have been much harder. If you are working full time, I would strongly recommend taking at least one PTO day per exam.
+
+Do not treat the first exam as a warm up. You cannot feel it out in this class. The cost of failing and having to retake it is far worse than the short term sacrifice of going all in early.
+
+A few extra notes. Doing a little preparation before the class, such as reviewing basic dynamic programming and divide and conquer, can help, but I do not think deep pre study is necessary. Doing well on the exams really requires being in the class and working through the material as it is taught.
+
+In other OMSCS classes, I often pushed most of my work to weekends. That approach does not work well here. I intentionally scheduled my study groups during the week to force myself to engage with the material consistently.
+
+Also, most of the advice you hear about this class is generally accurate. If something sounds hard, it probably is.
+
+I officially finished OMSCS later, but I will be walking at the May 2026 graduation in Atlanta. I have been living in Japan and can only get back to the US about once a year, so I am really looking forward to meeting people in person and putting faces to usernames.
+
+My wife and I are planning to move back to California in 2027. I would love to connect with fellow OMSCS folks, especially anyone based in California. If you want to say hi, here is my LinkedIn.
+
+Good luck. If you are worried about this class, that is normal. With the right structure and effort, you can get through it.

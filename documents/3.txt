@@ -1,0 +1,25 @@
+With the Exam 3 results out, I have finally finished the last course of this program. Before starting, I read many reviews and expected it to be hard. However, I did very well. I spent a reasonable amount of time one this course, so I hope my experience will help future students who want to pass this course without putting in an unrealistic amount of work.
+
+My score: Quiz 100% Exam1 58/60 Exam2 60/60 Exam3 56/60, final score.97.33%
+
+In short, my strategy is to hyperfocus on limited class material and ensure you always get the simple questions right. I will explain the details below.
+
+Lecture Videos: You must watch these to learn the material. I watched them twice: First time, to understand the "what" and "why" of each topic. Second time, a quick review before the exam to catch missed details. The second time I skipped the proofs for known algorithms. They are complex and not useful for exams. You only need to use the algorithms as tools, not prove them.
+
+Guidance Posts: Each section of the course has a specific 'Guidance' post on Ed. These are extremely important. You must be familiar with them because they define the rules for free-response questions. If you break these rules on the exam, you will lose points. This is the main source of controversy in this course. Many students ignore these clear rules and then feel they still deserve credit. My advice: Just follow the rules. Do not answer how you think is right and then try to argue about the rules later.
+
+Quizzes: I believe quizzes are undervalued because they only count for 10% of the grade. I suggest taking them very seriously for three reasons**:** 1 They help you understand exam rules and test your knowledge. 2 If a topic appears in a quiz, it is important and likely to show up on the exam. 3 Quizzes are untimed and "open everything." You should aim for a perfect score because these points are easier to earn than exam points.
+
+Homework: There are two types of homework: written and programming. I suggest you take the written homework seriously; submit it and carefully read the TA feedback. If you have time, read the regrade threads on Ed to see how others were graded, as this is a great way to understand the grading rules. For programming homework, do not spend time writing code; instead, solve the problems on paper just like a written assignment. The similarity between exam questions and homework is often surprising, so if you are familiar with the homework, you will find that some free-response questions become "free points" for you.
+
+Practice Problems: Treat practice problems that follow the written homework format just like actual assignments, and use the official solutions to identify your mistakes. However, for problems with flexible formats that will not appear on the exam, do not spend time perfecting your answers; simply ensuring you understand the concepts is enough.
+
+Suggested Problems: If you have time, treat these like written homework. Since there are no official solutions, you need to check Joves' notes from Office Hours. To save time, just try to find the solution approach; it does not matter if you get stuck, as long as you understand the answer after reviewing the Office Hour material. For all homework and practice problems, do not worry if you cannot solve them independently at first. The bottom line is that you must be able to solve them if the exact same problem appears on the exam.
+
+Prof. Brito’s Office Hours: These sessions mainly explain the approach to homework problems, but they do not provide perfect solutions that strictly follow the course guidance and formatting. To be honest, I did not watch most of these sessions because I was confident that I already understood the homework solutions.
+
+Joves' Office Hours: I recommend selectively watching these recordings because the content is well-structured and exam-oriented. He provides tips, highlights common mistakes, and shows solutions to suggested problems. To save time, I usually skip the student Q&A sections when watching the replays.
+
+Exam Review: For my review, I focus on one thing: repeatedly practicing homework, practice problems, and suggested problems. My goal is that if an identical problem appears on the exam, I must get a perfect score. This means mastering both the solution logic and the required formatting. I attempt these problems independently during the semester, even if my first tries are imperfect. After checking the solutions, I attempt them a second time during review, grading myself strictly to find every mistake. Finally, I do a quick third pass mentally to review the logic and past errors without writing them down. The key is repetitive training; you must be able to solve any problem you have seen under any condition, relying on preparation rather than a sudden flash of insight or your mental state on exam day.
+
+That sums it up. I simply wanted to document my study process and avoid subjective evaluations of the course. Feel free to share your thoughts or ask questions in the comments. Please give this a like if you found it helpful.

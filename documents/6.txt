@@ -1,0 +1,43 @@
+I plan to take this course this fall semester. As the reputation among student goes, I think it will be better to go through the material a bit in advance to lower the risk and stress. I hope fellow students who are in the same situation will find the list helpful. Please don't hesitate to correct me if there were anything wrong.
+
+Resources:
+
+Official:
+
+https://edstem.org/us/courses/47529/lessons the course recording available publicly.
+
+https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402 textbook
+
+https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms course webpage.
+
+https://lite.gatech.edu/home-content-internal-pages/LITE%20Grade%20Distribution%20Report the grade distribution yoy, search CS6515
+
+Community:
+
+https://omscs.wikidot.com/courses:cs6515 wikidot
+
+https://teapowered.dev/assets/ga-notes.pdf A comprehensive note from year 2020
+
+https://monzersaleh.github.io/GeorgiaTech/CS6515_GraduateAlgorithms.html Note from year 2023
+
+https://lowyx.com/posts/gt-ga-notes/ Note from fall 2024
+
+Reddit Advice:
+
+https://www.reddit.com/r/OMSCS/comments/1chb63s/guide_for_cs6515_graduate_algorithm/
+
+https://www.reddit.com/r/OMSCS/comments/vleq4h/cs6515_graduate_algorithms_its_true_what_they_say/
+
+https://www.reddit.com/r/OMSCS/comments/1hg51fx/some_notes_for_future_ga_students/
+
+https://www.reddit.com/r/OMSCS/comments/1jtlin4/without_discussing_specifics_of_the_exam_hows/
+
+My Two Cents:
+
+As the grade distribution shows above, you may notice that average grade has a noticeable decline last year. It may be because of the shift fro 60-70% of exam to 90% of exam due to last summer's potential issue related to plagiarism.
+
+Any class that is this exam intensive requires a lot of practice. Speaking of myself, I am not good at handle stress during the semester so I would like to go through the course material on my own before the semester starts. Even I understand I may not be able to get a seat in upcoming semester, this is eventually a course I have to take so I wouldn't delay.
+
+My plan:
+
+I want to go over the course recording, some exercises from the textbook, and also student's notes (specific ga-notes) before the fall semester. If you have a similar plan, DM me. I will be happy to form a study group for those who want to study GA in advance.

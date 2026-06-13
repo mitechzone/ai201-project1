@@ -1,0 +1,44 @@
+I'm in GA and we're currently preparing for exam 2, and I figured I'd share some information with future students. A few notes about myself, because I know you may be thinking "here's another lazy whiner". I have a 3.6 GPA, which is evidently not perfect. My undergrad was not in CS but in Computer Engineering. I took EOS, AOS, SICC and DC as electives because I knew they were intense courses but would be rewarding. This is my 9th class. I'm a SWE at a FAANG company.
+
+If you don't know, this course requires a 70% to get a B [the curve] and a B is mandatory for most specializations for graduation. TAs say this may be adjusted at the end but who knows by how much? At the start of class, I joined a study group with [originally] 5 people. Of the 5 in the study group, 2 people have withdrawn - both taking this as their final course before graduation. 2 of the 3 remaining people received Fs on exam 1, including myself. Here are some exam 1 statistics:
+
+- Mean: 36.8/60 (61%)
+
+- Median: 37.4/60 (62%)
+
+There have been several posts about the extreme strictness in the grading. Based on exam scores, which is 75% of the grade, more than half are FAILING. We aren't first semester students and nearly everyone is taking this as a last, required course. Here are some problems I've seen with this course and I hope you don't have to experience this in the future:
+
+- Grading is insanely strict for homework and exams. You can have the core of the algorithm implemented correctly, yet miss 50% of points because of syntax and incorrect indices.
+
+- It's possible to bomb one [algorithm] question on the exam and drop to a D. The problem may not "click" for you, you may misinterpret the input or output, you may just struggle to solve it, etc.
+
+- The mean of the multiple choice questions was barely over 50%.
+
+- While they allow 2.5h for the exams, it's relatively little time when you don't immediately find the solution to the algorithm and you make more than 2 attempts to solve it differently.
+
+A TA created a thread titled "Post-Exam 1 - Should I drop?" (see below), because it's obvious that a large number of students are failing. The caveat is that these students are REQUIRED to take the course. Statistically most of us should pass, but the entire time, I've had anxiety and for good reason...I'm currently failing and so are lots of students. I won't offer any solutions [because I have none]. While the content is interesting, it's been an extremely terrible learning experience.
+
+> People generally get discouraged in the class around this time (first few HWs with fewer points than expected, exam 1, post exam 1 fears, etc.) and give up and drop. I generally advise, don't drop unless one of the following applies to you:
+> You have a low D or an F in the class, and it doesn't look feasible to pull at least a C. (Keep in mind the letter grade cutoffs are more generous than most classes when doing this calculation.)
+> Note: if you're II specialization, you can need only a C, depending on the other classes you have/will take. The other specializations need a B. I'll talk about this more in a sec.
+> Note: Don't forget to look at the syllabus and the letter grade cutoffs! The way averages work, it's way easier to move from a 67% to a 70% than it is to move from a 77% to an 80%. This is hugely in your favor.
+> Stress from the class is putting you in a dangerous mental place. (Always take care of yourself first - GA and OMSCS are not more important than you.)
+> You know for sure that you will not have time to devote to the class. (We all have lives with stuff going on).
+> Your GPA is already at 3.0 or lower across 8 or 9 other classes.
+> You need the money from tuition refund.
+> You have some other pressure on yourself to make an A in the class. (Employer tuition assistance, competitiveness applying to PhD program, you want to TA this class, etc.)
+> However, if you think you should be able to at least get a C, I strongly advise not dropping.
+> If you are not specializing in Interactive Intelligence, regardless of whether you drop or not, you are going to have to take the class again at some point. Dropping doesn't have much benefit (unless one of the earlier bullet points applies to you)
+> If you are specializing in Interactive Intelligence, then you can either replace this class with a different class, or...substitute "D" for "C" in all this advice.
+> If you are going to have to take the class again at some point, sticking with the class means:
+> As long as your overall GPA is high enough to absorb a C (generally you need at least one A grade to counter a C grade, due to how averages work), no impact on your ability to graduate later.
+> You'll get exposure to exam 2 and 3 material. More time on the material = better understanding for the next time you have to retake the class anyways.
+> There's still potential to actually earn that passing B grade (or A grade - I've seen it done many times!!)
+> And regardless, remember that CS 6515 is a tough class for many folks, and it's extra challenging in the summer when you have less time to absorb it all. Remember that you are not defined by your letter grades, for better or for worse. Earning an A doesn't mean you're an amazing person (sorry, those of you that have A's, but if you have an A, why are you thinking about dropping?), and earning less than a B doesn't mean you have less value or don't deserve to be here.
+> Hope that helps some of you that are trying to make tough decisions, and best of luck, everyone.
+
+EDIT: Final grades are in I received a B. After exam 3, which I got a low D in, I had a 69% overall. The cutoff for a B was 67%. My reaction was relief and also anger. This class was so difficult and so much depended on it. My previous semesters were all very difficult courses (e.g. DC, SICC, AOS) and the stress from those compounded with GA in particular affected my work performance and personal life. I wish anyone in the future good luck and I share your frustration. BTW, there are no plans for the course to change, according to the professor (copy and paste from Ed):
+
+Student: "Dr. Brito, what is one thing you would like to change about this course?"
+
+Gerandy Brito: "I think the course is very nice. I do not want to change it, but to add other topics (even within the current topics). For an Intro course in Algorithms I think it does the job nicely."
