@@ -11,7 +11,7 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
-The chosen domain is **Student reviews of CS 6515: Graduate Algorithms (GA) in the OMSCS program at Georgia Intitute of Technology**.
+The chosen domain is **Student reviews of CS 6515: Graduate Algorithms (GA) in the OMSCS program at Georgia Institute of Technology**.
 
 OMSCS is a leading online M.S. in Computer Science program with a large and diverse student and alumni community. 
 
@@ -53,6 +53,8 @@ This information is difficult to obtain through official channels because Georgi
 **Overlap:** 50 tokens (~200 characters)
 
 **Reasoning:** Student reviews are generally self-contained, so a 300-token chunk size captures most reviews within a single chunk and preserves the semantic integrity of an individual student's experience. Larger chunks risk blending opinions from different students, semesters, or contexts, which can dilute sentiment and reduce retrieval accuracy. While Reddit posts are often longer and more variable, a 300-token limit typically aligns with paragraph boundaries where topics naturally shift. A 50-token overlap serves as a safety net for longer Reddit posts or unusually detailed reviews that must be split, ensuring important context is retained across adjacent chunks.
+
+**Note:** Added Recursive chunking after implementing the fixed-size one initially.
 
 ---
 
