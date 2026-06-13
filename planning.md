@@ -86,7 +86,7 @@ Without budget constraints, selecting a premium embedding model like text-embedd
 | 1 | Is GA a core course for all OMSCS specializations? | No. |
 | 2 | Which OMSCS specializations do not require GA? | HCI (Human-Computer Interaction) and AI (Artificial Intelligence). |
 | 3 | How many exams does GA typically have in recent semesters? | 3 exams. |
-| 4 | What's the cut score to pass GA in recent semesters? | 70%. |
+| 4 | What's the cut score to earn a B in GA in recent semesters? | 70%. |
 | 5 | Is homework graded in recent semesters? | Yes. TAs grade the homework and provide feedback, but it does not contribute to the final course grade. |
 
 ---
